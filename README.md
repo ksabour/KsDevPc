@@ -9,4 +9,4 @@ After the reboot you can add kuberetes, github-codespace and docker plugin in vs
 
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fksabour%2FKsDevPc%2Fmain%2Fdeploydevpc.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fksabour%2FKsDevPc%2Fmain%2Fdeploydevpcks.json)
